@@ -1,0 +1,21 @@
+# "Jag gjorde bara mitt jobb!"
+
+This text is licenced under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/legalcode)
+
+I lördags den 6 mars var jag på demonstrationen för frihet och sanning i Stockholm, och det slog mig hur lite personligt ansvar poliser känner för sitt jobb. "Jag har ingen personlig åsikt, jag gör bara mitt jobb och jag har inget val", sades av flera poliser. Eftersom deras arbete sedan pandemilagen röstades igenom delvis har blivit att begå brott, så blir dessa ursäkter väldigt problematiska. Nürnbergrättegångarna i Tyskland efter andra världskriget visade tydligt att personligt ansvar kan utkrävas. Vanligtvis brukar polisen vara närvarande på demonstrationer för att skydda demonstranterna och hålla ordning, men i lördags blev deras uppgift att ingripa och föra bort lugna människor som stod och lyssnade på talen.
+
+I Sverige är grundlagen den lag som står över de andra lagarna. Så här står det på riksdagens hemsida _"Grundlagarna står över alla andra lagar. Det betyder att innehållet i de andra lagarna aldrig får strida mot vad som står i grundlagarna."_ [1] Vidare står det; _"Grundlagarna är svårare att ändra än andra lagar. Det ska finnas tid för eftertanke och konsekvenserna av en grundlagsändring måste vara extra genomtänkta. Tanken är att skydda demokratin. Riksdagen ska inte kunna fatta förhastade beslut som till exempel begränsar människors fri- och rättigheter. För att ändra en grundlag krävs att riksdagen fattar två likadana beslut och att det hålls ett riksdagsval mellan de två besluten. Väljarna ska kunna ta ställning till förslaget om grundlagsändring och välja den riksdag som tycker som de själva gör i frågan."_
+
+Ovanstående gör det tydligt att pandemilagen strider mot grundlagen eftersom pandemilagen gör det möjligt att begränsa mötesfriheten som finns reglerad i grundlagen. Pandemilagen har heller inte röstats igenom två gånger med val emellan. Följaktligen, poliser som angriper/ingriper mot en fredlig demonstration med hänvisning till pandemilagen, på order eller ej, gör sig skyldiga till brott mot grundlagen och därmed också vår demokrati. Ponera att en polischef hade beordrat några poliser att råna en guldsmedsaffär, och att poliserna gör det. Hade de då kunnat säga "jag följde bara order" i rättegången som de förhoppningsvis hade åtalats i? Förhoppningsvis inte. Detsamma borde gälla dessa poliser som bryter mot grundlagen.
+
+Hur ska vi kunna få dessa människor att ta sitt personliga ansvar om de inte tvingas ta konsekvenserna av sina handlingar? Åtal samt eventuellt dom och avsked är vad dessa bör förvänta sig i framtiden. Observera att detta också synnerligen gäller polischefer. Jag kan förstå att detta kan låta hårt, och att många poliser ställs inför ett mycket svårt val, d.v.s mellan att följa lagen eller följa order. Många har också blivit poliser med viljan att göra samhället bättre, och dessutom så är de flesta ekonomiskt beroende av sin lön, vilket kommer göra deras beslut ännu svårare. Vi som samhälle behöver stödja de som väljer att stå upp för lagen, för väldigt få vill vara helt utan poliser.
+
+Vad kan vi göra för att återställa demokrati och mänskliga rättigheter [2] i Sverige? Svaret är att makthavare bör kunna hållas personligt ansvariga för sina beslut. Konkret i fallet rörande demonstrationen på Medborgarplatsen, skulle jag föreslå att allt videomaterial från demonstrationen samlas in och gås igenom. Sedan väljs en polis ut som är tydligt identifierbar och som begår ett brott mot grundlagen. All kraft bör därefter satsas på att skapa ett åtal mot denna så att åtminstone den polisen blir åtalad, dömd och avskedad. Upprepas detta vid varje demonstration så kommer snart poliser ta sitt personliga ansvar, gå samman och stå upp mot sina kriminella polischefer, som i sin tur måste stå upp mot sina kriminella chefer. Först då kommer vi ha en polismyndighet som står på demokratins, mänskliga rättigheters och folkets sida.
+
+Författare: Jonas Claesson
+
+- [1] https://www.riksdagen.se/sv/Sa-funkar-riksdagen/Demokrati/Grundlagarna/
+- [2] https://www.un.org/en/universal-declaration-human-rights/index.html
+
+## Publicerad
+2021-03-09: https://projektsanning.com/2021/03/09/jag-gjorde-bara-mitt-jobb/
