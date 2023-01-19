@@ -17,14 +17,13 @@ def get_mortality_data(agegroup):
     raw_data = scb.get_data()
 
     # Extrahera data
-    mortalitet = [float(x['values'][0]) for x in raw_data['data']]
-
-    # Sortera efter mortalitet
-    return [x for x in zip(years, mortalitet)]
+    return [float(x['values'][0]) for x in raw_data['data']]
 
 
 def generate_barchart(data):
-    dataSorted = sorted(data, key=lambda t: t[1])
+    # Sortera efter mortalitet
+    zipped = [x for x in zip(years, data)]
+    dataSorted = sorted(zipped, key=lambda t: t[1])
 
     ## Konfigurera bild
     objects = [t[0] for t in dataSorted]
