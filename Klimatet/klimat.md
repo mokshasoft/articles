@@ -2,6 +2,7 @@
 
 ## Orkaner
 https://tropical.colostate.edu/Publications/papers/klotzbach_et_al_2018_bams.pdf
+https://chatgpt.com/share/6784d9fe-9590-8001-b7ca-36120fd25b64
 
 ## Temperatur
 https://en.wikipedia.org/wiki/Geologic_temperature_record
